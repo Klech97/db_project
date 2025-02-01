@@ -1,5 +1,8 @@
 package jp.vadim.DB.config.modules;
 
+import org.springframework.stereotype.Component;
+
+
 public class Person {
     private int id;
     private String name;
